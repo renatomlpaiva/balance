@@ -1,6 +1,6 @@
 # Balance
 
-TODO: Write a project description
+TODO: Create endpoint 
 
 ## Installation
 
